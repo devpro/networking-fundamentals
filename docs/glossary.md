@@ -1,5 +1,11 @@
 # Glossary
 
+## Certifications
+
+Name | Meaning
+---- | -------
+CCNA | Cisco Certified Network Associate
+
 ## Network protocols
 
 Name | Meaning
