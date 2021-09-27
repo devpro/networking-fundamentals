@@ -5,8 +5,6 @@
 ### Pluralsight skill assessment
 
 * [Networking fundamentals](https://app.pluralsight.com/paths/skill/networking-fundamentals)
-* [Mastering Cisco DevNet Application Design and Network Automation Techniques](https://app.pluralsight.com/paths/skills/mastering-cisco-devnet-application-design-and-network-automation-techniques)
-* [Understanding Cisco DevNet Software Development and Network Programmability Fundamentals](https://app.pluralsight.com/paths/skills/understanding-cisco-devnet-software-development-and-network-programmability-fundamentals)
 
 ### Pluralsight content
 
@@ -28,3 +26,7 @@
 ## Internet
 
 * [study-ccna.com](https://study-ccna.com/)
+
+## Pending
+
+Yet to be reviewed: [CBT Nuggets](https://www.cbtnuggets.com/), [INE](https://ine.com/)
