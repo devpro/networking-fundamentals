@@ -3,7 +3,7 @@
 ## Networking basics
 
 - Introduction videos
-  - [ ] [FREE CCNA // What is a Network? // Day 0 (NetworkChuck)](https://www.youtube.com/watch?v=S7MNX_UD7vY)
+  - [ ] [What is a Network? (NetworkChuck)](https://www.youtube.com/watch?v=S7MNX_UD7vY)
 
 - Skill assessment
   - [ ] [Networking fundamentals](https://app.pluralsight.com/paths/skill/networking-fundamentals) by Pluralsight
