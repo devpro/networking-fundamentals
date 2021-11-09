@@ -1,32 +1,26 @@
 # Learning paths
 
-## Pluralsight
+## Networking basics
 
-### Pluralsight skill assessment
+- Introduction videos
+  - [ ] [FREE CCNA // What is a Network? // Day 0 (NetworkChuck)](https://www.youtube.com/watch?v=S7MNX_UD7vY)
 
-* [Networking fundamentals](https://app.pluralsight.com/paths/skill/networking-fundamentals)
+- Skill assessment
+  - [ ] [Networking fundamentals](https://app.pluralsight.com/paths/skill/networking-fundamentals) by Pluralsight
 
-### Pluralsight content
+- Courses
+  - [ ] [Networking Essentials](https://www.netacad.com/virtual/wr/networking-essentials) by Cisco Networking Academy
+  - [ ] [Networking Concepts and Protocols](https://app.pluralsight.com/library/courses/comptia-network-plus-networking-concepts) by Pluralsight
 
-* [Cisco Certified Network Associate (CCNA 200-301)](https://app.pluralsight.com/paths/certificate/cisco-ccna-cisco-certified-network-associate-200-301)
+## Certifications
 
-### Pluralsight authors
+### Cisco Certified Network Associate (CCNA 200-301)
 
-* [Nick Russo](https://app.pluralsight.com/profile/author/nick-russo)
- 
-## Youtube
+- Certification paths
+  - [Pluralsight](https://app.pluralsight.com/paths/certificate/cisco-ccna-cisco-certified-network-associate-200-301)
+  - [Youtube (NetworkChuck)](https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+  - [Study-CCNA.com](https://study-ccna.com/)
 
-* [NetworkChuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
-  * [FREE CCNA // What is a Network? // Day 0](https://www.youtube.com/watch?v=S7MNX_UD7vY) - Jul 4, 2020
+## Miscellaneous
 
-## Cisco Network Academy
-
-* [Networking Essentials](https://www.netacad.com/virtual/wr/networking-essentials)
-
-## Internet
-
-* [study-ccna.com](https://study-ccna.com/)
-
-## Pending
-
-Yet to be reviewed: [CBT Nuggets](https://www.cbtnuggets.com/), [INE](https://ine.com/)
+- To be reviewed: [CBT Nuggets](https://www.cbtnuggets.com/), [INE](https://ine.com/)
