@@ -6,3 +6,4 @@ Training resources to acquire the basics of IT infrastructure networking.
 
 * [Glossary](./docs/glossary.md)
 * [Learning paths](./docs/learning-paths.md)
+* [Tools](./docs/tools.md)
