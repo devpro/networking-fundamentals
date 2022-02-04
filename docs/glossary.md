@@ -12,7 +12,7 @@ Name | Meaning
 ---- | -------
 OSI | Open Systems Interconnection
 
-## Network protocols
+## Protocols
 
 Name | Meaning
 ---- | -------
@@ -35,6 +35,7 @@ RIP |
 RSTP |
 SFTP |
 SMTP |
+SNMP | Simple Network Management Protocol
 TCP |
 TFTP |
 UDP |
