@@ -17,15 +17,16 @@ OSI | Open Systems Interconnection
 Name | Meaning
 ---- | -------
 802.1Q |
-BGP |
-EIGRP |
+BGP | Border Gateway Protocol
+DHCP | Dynamic Host Configuration Protocol
+EIGRP | Enhanced Interior Gateway Routing Protocol
 Ethernet |
 FTP |
 HSRP |
 HTTP |
 ICMP |
 IMAP |
-IP |
+IP | Internet Protocol
 IPv6 |
 NTP |
 OSPF |
@@ -36,6 +37,6 @@ RSTP |
 SFTP |
 SMTP |
 SNMP | Simple Network Management Protocol
-TCP |
+TCP | Transport Control Protocol
 TFTP |
-UDP |
+UDP | User Datagram Protocol
