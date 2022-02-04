@@ -6,6 +6,12 @@ Name | Meaning
 ---- | -------
 CCNA | Cisco Certified Network Associate
 
+## Models
+
+Name | Meaning
+---- | -------
+OSI | Open Systems Interconnection
+
 ## Network protocols
 
 Name | Meaning
