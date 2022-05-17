@@ -9,3 +9,11 @@ Training resources to acquire the basics of IT infrastructure networking.
 * [Glossary](./docs/glossary.md)
 * [Learning paths](./docs/learning-paths.md)
 * [Tools](./docs/tools.md)
+
+## Social media
+
+* [Cisco](https://twitter.com/Cisco)
+* [David Bombal](https://twitter.com/davidbombal)
+* [Jeremy McDowell](https://twitter.com/JeremysITLab)
+* [Keith Barker](https://twitter.com/KeithBarkerCCIE)
+* [The Art of Network Engineering](https://twitter.com/artofneteng)
