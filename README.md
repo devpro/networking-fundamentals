@@ -17,3 +17,4 @@ Training resources to acquire the basics of IT infrastructure networking.
 * [Jeremy McDowell](https://twitter.com/JeremysITLab)
 * [Keith Barker](https://twitter.com/KeithBarkerCCIE)
 * [The Art of Network Engineering](https://twitter.com/artofneteng)
+* [NetworkChuck][https://twitter.com/NetworkChuck)
